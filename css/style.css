@@ -1,0 +1,12 @@
+body { 
+  background-color: aqua;
+}
+h1 {
+  font-style: oblique;
+  text-align: center;
+  border-radius: 22em;
+  border: solid;
+  background-color: fuchsia;
+
+  
+}
